@@ -22,7 +22,7 @@ Start Date: 16th July 2025
 Time: 06:00 PM – 08:00 PM IST
 Mode: Online & Offline
 
-🔗 Join Online via Zoom (Use Mobile 📱 or Laptop 💻) : 
+🔗 Join Online via Zoom (Use Mobile 📱 or Laptop 💻) : https://bit.ly/44RlXZE
 👉 Reply "YES" to get the Zoom link instantly!
 
 📍 *Offline Venue:* https://bit.ly/44uEUkT
