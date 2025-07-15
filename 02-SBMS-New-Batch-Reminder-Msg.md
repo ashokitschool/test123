@@ -39,7 +39,7 @@ Mode: Online & Offline
 
 🎯 Our Support Continues Until You Get Hired!
 
-💬 Join Our *Java Developers WhatsApp Community* & Get Daily Tips & Tricks to Boost Your Skills : 
+💬 Join Our *Java Developers WhatsApp Community* & Get Daily Tips & Tricks to Boost Your Skills : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
 
 💻 *Team Ashok IT*
 ```
