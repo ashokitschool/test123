@@ -33,6 +33,23 @@ Mode: Online & Offline
 *Team Ashok IT*
 
 ```
+## Java Fullstack MSG To Share Before Day Evening or Mrng ##
+
+```
+Welcome to *Ashok IT*,
+
+Thanks for registering! 🙌
+
+Only few hours to go! ⏰
+
+The free Demo session on *Java Full Stack starts at 06:00 PM today (16th July)*.
+
+Looking forward to seeing you there!
+
+Session Link will be shared to you before the session starts.
+
+Thank You.
+```
 
 ## JAVA FULLSTACK AFter Demo Follow Up MSG ##
 
