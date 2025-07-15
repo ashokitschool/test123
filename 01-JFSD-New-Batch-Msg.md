@@ -1,4 +1,40 @@
-## JAVA FULLSTACK DEMO VIDEOS REMINDER MSG ##
+## JAVA FULLSTACK New Batch Announcement MSG ##
+
+```
+Greetings from *Ashok IT*!
+
+🚀 *Java Full Stack Training with 100% Placement Assistance*
+Learn from Industry Experts — Gain Practical Skills That Employers Look For
+
+📅 *New Batch Details:*
+Start Date: 00th July 2025
+Time: 00:00 AM – 00:00 AM (IST)
+Mode: Online & Offline
+
+👉 *Join Online via Zoom* (Mobile📱 or Laptop💻): https://bit.ly/44aZKWp
+*Note:* _Reply to this message as "YES" to get the Zoom link easily._
+
+📍 *Offline Address:* https://bit.ly/44uEUkT
+
+⏳ *Course Duration:* 6 Months
+
+*_Why Choose Ashok IT?_*
+✅ Master Front End, Back End and Data Base
+✅ Module wise Real-Time Projects
+✅ 20+ DevSecOps Tools + AWS Basics
+✅ 100% Placement Assistance
+✅ Dedicated Mentor Support
+✅ Softcopy Materials | Class Videos For Revision
+📌 Our Support Continues Until You Get Hired!
+
+🎯 Join *Java Developers WhatsApp Community* To get Daily Tips & Tricks: https://bit.ly/4nFTUDT
+
+--
+*Team Ashok IT*
+
+```
+
+## JAVA FULLSTACK AFter Demo Follow Up MSG ##
 
 ```
 🚀 Hey Learners!
