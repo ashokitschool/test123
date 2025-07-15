@@ -51,7 +51,20 @@ Session Link will be shared to you before the session starts.
 Thank You.
 ```
 
-## JAVA FULLSTACK AFter Demo Follow Up MSG ##
+## Java Fullstack MSG To Share Before 30 mins of Session ##
+
+```
+Few Minutes to go Live - *Java Full Stack*
+
+Session starts At : 08:30 PM (IST)
+Meeting Link:  
+
+Thanks,
+*Ashok IT*
+
+```
+
+## JAVA FULLSTACK After Demo, Follow Up MSG To Share ##
 
 ```
 🚀 Hey Learners!
