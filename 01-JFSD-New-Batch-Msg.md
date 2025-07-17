@@ -1,3 +1,9 @@
+## Java Developers WhatsApp Channel ##
+
+```
+🔥 Join *Java Developers* WhatsApp Community For *Java Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+```
+
 ## JAVA FULLSTACK New Batch Announcement MSG ##
 
 ```
