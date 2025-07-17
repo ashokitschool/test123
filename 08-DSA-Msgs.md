@@ -3,7 +3,7 @@
 ## DSA WhatsApp Channel
 
 ```
-🔥 Join *DSA Learners* WhatsApp Community For *DSA Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+🔥 Join *DSA Learners* WhatsApp Community For *DSA Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029Vb63PNQ2phHMqHlmse2j
 ```
 
 ---
@@ -32,7 +32,7 @@ Enroll in Ashok IT's DSA Program – *Trusted by 50,000+ learners!*
 🔹 Dynamic Programming  
 🔹 Problem Solving on LeetCode, HackerRank
 
-🔥 Join *DSA Learners* WhatsApp Community For *DSA Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAX3neAInPcJKNWip0p
+🔥 Join *DSA Learners* WhatsApp Community For *DSA Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029Vb63PNQ2phHMqHlmse2j
 
 💥 *Course Syllabus* : https://ashokit.in/courses/data-structures-and-algorithms-training
 
@@ -147,7 +147,7 @@ Enroll in Ashok IT's Live Online Data Structures & Algorithms Training – Trust
 🔹 Dynamic Programming  
 🔹 Problem Solving on LeetCode, HackerRank
 
-🔥 Follow *DSA Learners WhatsApp Community* For Daily Tips & Tricks : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+🔥 Follow *DSA Learners WhatsApp Community* For Daily Tips & Tricks : https://whatsapp.com/channel/0029Vb63PNQ2phHMqHlmse2j
 
 📌 *Reply to this msg as ‘YESS’ to get complete course details & reminders!*
 
