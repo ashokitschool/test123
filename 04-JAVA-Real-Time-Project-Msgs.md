@@ -28,10 +28,9 @@ Enroll in Ashok IT's JAVA Real-Time Project Development Training – *Trusted by
 *Key Modules Covered:*
 🔹 20+ Real-Time Tools
 🔹 Linux + AWS Basics
-🔹 DevSecOps with CI CD
+🔹 DevSecOps Tools
 🔹 2 Mini Projects
 🔹 1 Major Project
-🔹 React JS
 🔹 Agile Model
 🔹 Fullstack Project with Live Coding
 
@@ -61,7 +60,7 @@ Gain Practical Skills that Employers Look For!
 *Key Modules Covered:*
 🔹 20+ Real-Time Tools
 🔹 Linux + AWS Basics
-🔹 DevSecOps with CI CD
+🔹 DevSecOps Tools
 🔹 2 Mini Projects
 🔹 1 Major Project
 🔹 Agile Model
@@ -119,12 +118,12 @@ Mode: Online & Offline
 💻 Mode: Online & Offline
 
 💡 *Why Attend?*
-Get an exclusive live demo on how Spring Boot & Microservices is powering today’s tech industry. Experience how real-world applications are built, scaled, and maintained.
+Get an exclusive live demo on how Java Fullstack Development is powering today’s tech industry. Experience how real-world applications are built, scaled, and maintained.
 
 🔍 *What You'll Learn:*
 🔹 20+ Real-Time Tools
 🔹 Linux + AWS Basics
-🔹 DevSecOps with CI CD
+🔹 DevSecOps Tools
 🔹 2 Mini Projects
 🔹 1 Major Project
 🔹 Agile Model
