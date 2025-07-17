@@ -18,6 +18,7 @@ Enroll in Ashok IT's Full Stack Java Developer Training – *Trusted by 50,000+ 
 ✅ Industry-Oriented Capstone Projects
 ✅ LMS Access
 ✅ 100% Placement Support
+📌 Our Support Continues Until You Get Hired!
 
 *Key Modules Covered:*
 🔹 Core Java, Adv. Java
