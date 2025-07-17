@@ -1,3 +1,7 @@
+## Course Payment Information ##
+
+```
+
 📩 *Course Payment Instructions*
 
 Please complete the payment for the course you wish to enroll and send the following details to our email : *ashokitpayments@gmail.com*
@@ -25,3 +29,5 @@ Google Pay / PhonePe: 9701596784 – (B. Lakhsmi)
 
 --
 *Team Ashok IT*
+
+```
