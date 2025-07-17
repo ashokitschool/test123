@@ -4,6 +4,42 @@
 🔥 Join *Java Developers* WhatsApp Community For *Java Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
 ```
 
+## JAVA Fullstack MSG To Send For New Lead ##
+
+```
+🔥 *JAVA Fullstack Developer Training with 100% Placement Assistance*
+
+Enroll in Ashok IT's Full Stack Java Developer Training – *Trusted by 50,000+ learners!*
+
+*Why To Join This Program?*
+✅ Hands-On Live Interactive & Intensive Training
+✅ Weekly Skill Assessment
+✅ Regular Mock Interviews
+✅ Industry-Oriented Capstone Projects
+✅ LMS Access
+✅ 100% Placement Support
+
+*Key Modules Covered:*
+🔹 Core Java, Adv. Java
+🔹 Spring, Spring Boot, Microservices
+🔹 HTML, CSS, JavaScript, Bootstrap
+🔹 React JS, AWS Basics 
+🔹 Databases: Oracle & MongoDB
+
+*DevSecOps & Tools You'll Master:*
+🔸 Maven, Git Hub, SonarQube
+🔸 Docker, Kubernetes, Jenkins
+🔸 JUnit, Log4J, Nexus, Trivy
+🔸 Kafka, Redis, PostMan, Swagger
+
+🔥 Join *Java Developers* WhatsApp Community For *Java Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+
+💥 *Course Syllabus* : https://ashokit.in/courses/java-full-stack-developer-training
+
+Cheers,
+*Team Ashok IT* 💻
+```
+
 ## JAVA FULLSTACK New Batch Announcement MSG ##
 
 ```
