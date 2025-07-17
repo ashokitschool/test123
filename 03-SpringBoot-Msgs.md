@@ -1,3 +1,43 @@
+## Java SpringBoot Developers WhatsApp Channel ##
+
+```
+
+🔥 Join *Java SpringBoot Developers* WhatsApp Community For *Java Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+
+```
+## SpringBoot MSG To Send For New Lead ##
+
+```
+
+🔥 *SpringBoot with Cloud and Microservices Developer Training with 100% Placement Assistance*
+
+Enroll in Ashok IT's SpringBoot with Cloud and Microservices Training – *Trusted by 50,000+ learners!*
+
+*Why To Join This Program?*
+✅ Hands-On Live Interactive & Intensive Training
+✅ Weekly Skill Assessment
+✅ Regular Mock Interviews
+✅ Industry-Oriented Capstone Projects
+✅ LMS Access
+✅ 100% Placement Support
+
+📌 Our Support Continues Until You Get Hired!
+
+*Key Modules Covered:*
+🔹 Spring Core, SpringBoot
+🔹 Spring Data JPA, Web MVC
+🔹 REST API, Spring Cloud
+🔹 Spring Security, Microservices
+🔹 SpringBatch, Spring Schedular
+
+🔥 Join *Java SpringBoot Developers* WhatsApp Community For *Java Tips + FAQs + New Batches Reminders* : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+
+💥 *Course Syllabus* : https://ashokit.in/courses/springboot-microservices-online-training
+
+Cheers,
+*Team Ashok IT* 💻
+
+```
 
 ## SBMS New Batch Announcement MSG Format ##
 
@@ -39,9 +79,10 @@ Mode: Online & Offline
 
 🎯 Our Support Continues Until You Get Hired!
 
-💬 Join Our *Java Developers WhatsApp Community* & Get Daily Tips & Tricks to Boost Your Skills : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
+💬 Join Our *Java SpringBoot Developers WhatsApp Community* & Get Daily Tips & Tricks to Boost Your Skills : https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
 
 💻 *Team Ashok IT*
+
 ```
 
 ## SBMS Reminder MSG ##
@@ -54,7 +95,7 @@ Mode: Online & Offline
 *Ashok IT’s Spring Boot & Microservices Career Transition Program is here!*
 
 🎯 Attend the Live Webinar
-🔗 Register Now: 
+🔗 Register Now :  
 
 👉 _Note: Kindly reply as Hi to access the link in blue colour._
 🔷 *Please ignore if you've already registered.*
@@ -68,8 +109,8 @@ Mode: Online & Offline
 Get an exclusive live demo on how Spring Boot & Microservices is powering today’s tech industry. Experience how real-world applications are built, scaled, and maintained.
 
 🔍 *What You'll Learn:*
-🔹 Java, Spring Boot & Microservices
 🔹 Spring Framework Essentials
+🔹 Spring Core, Spring Boot 
 🔹 Spring Data JPA – Simplified Database Access
 🔹 Spring Web MVC – Build Scalable Web Applications
 🔹 Spring Security – Secure Your Apps the Right Way
@@ -158,4 +199,3 @@ Cheers,
 *Team Ashok IT* 💻
 
 ```
-
